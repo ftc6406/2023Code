@@ -1,6 +1,3 @@
-> [!Warning]
-> **__This repository is currently archived since the 2023-2024 Centerstage season is over. You can no longer push to or pull from it__**
-
 ## TeamCode Module
 
 Welcome!
